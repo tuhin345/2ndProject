@@ -1,0 +1,6 @@
+done
+footer widget,passprotected post, search.php, tag.php, author.php,post format, 
+
+
+not done
+date.php comments.php create a template page, 	
